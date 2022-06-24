@@ -1,6 +1,6 @@
 {
   "name": "dv-style-inject",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "append style target to head",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
